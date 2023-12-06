@@ -1,25 +1,23 @@
-,Candidate,State,District,Office Type,Race Type,Race Primary Election Date,Primary Status,Primary Runoff Status,General Status,Partisan Lean,Primary %,Won Primary,Race,Veteran?,LGBTQ?,Elected Official?,Self-Funder?,STEM?,Obama Alum?,Party Support?,Emily Endorsed?,Guns Sense Candidate?,Biden Endorsed?,Warren Endorsed? ,Sanders Endorsed?,Our Revolution Endorsed?,Justice Dems Endorsed?,PCCC Endorsed?,Indivisible Endorsed?,WFP Endorsed?,VoteVets Endorsed?,No Labels Support?,total_runners_x,total_runners_y
-292,Zak Ringelstein,ME,U.S. Senate Maine,Senator,Regular,6/12/18,Advanced,None,1.0,3.51,100.0,Yes,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
-350,David Baria,MS,U.S. Senate Mississippi,Senator,Regular,6/5/18,Advanced,Advanced,1.0,-18.780001,30.98,Yes,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-351,Howard Sherman,MS,U.S. Senate Mississippi,Senator,Regular,6/5/18,Advanced,Lost,0.0,-18.780001,31.790001,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-352,Jensen Bohren,MS,U.S. Senate Mississippi,Senator,Regular,6/5/18,Lost,None,0.0,-18.780001,3.21,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-353,Jerone Garland,MS,U.S. Senate Mississippi,Senator,Regular,6/5/18,Lost,None,0.0,-18.780001,4.8499999,No,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-354,Omeria Scott,MS,U.S. Senate Mississippi,Senator,Regular,6/5/18,Lost,None,0.0,-18.780001,24.200001,No,1.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-355,Victor Maurice Jr.,MS,U.S. Senate Mississippi,Senator,Regular,6/5/18,Lost,None,0.0,-18.780001,4.96,No,1.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-391,Chris Janicek,NE,U.S. Senate Nebraska,Senator,Regular,5/15/18,Lost,None,0.0,-26.76,20.219999,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
-392,Frank Svoboda,NE,U.S. Senate Nebraska,Senator,Regular,5/15/18,Lost,None,0.0,-26.76,11.37,No,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
-393,Jane Raybould,NE,U.S. Senate Nebraska,Senator,Regular,5/15/18,Advanced,None,1.0,-26.76,63.68,Yes,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
-394,Larry Marvin,NE,U.S. Senate Nebraska,Senator,Regular,5/15/18,Lost,None,0.0,-26.76,4.7399998,No,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
-446,Allen Rheinhart,NV,U.S. Senate Nevada,Senator,Regular,6/12/18,Lost,None,0.0,0.94999999,3.3299999,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-447,Bobby Mahendra,NV,U.S. Senate Nevada,Senator,Regular,6/12/18,Lost,None,0.0,0.94999999,2.6700001,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-448,Daniel Burleigh,NV,U.S. Senate Nevada,Senator,Regular,6/12/18,Lost,None,0.0,0.94999999,2.26,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-449,David Drew Knight,NV,U.S. Senate Nevada,Senator,Regular,6/12/18,Lost,None,0.0,0.94999999,4.4299998,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-450,Jacky Rosen,NV,U.S. Senate Nevada,Senator,Regular,6/12/18,Advanced,None,1.0,0.94999999,77.110001,Yes,,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6,6
-451,Jesse Sbaih,NV,U.S. Senate Nevada,Senator,Regular,6/12/18,Lost,None,0.0,0.94999999,3.1700001,No,1.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,6,6
-654,Gary Davis,TN,U.S. Senate Tennessee,Senator,Regular,8/2/18,Lost,None,0.0,-27.139999,5.2800002,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-655,John Wolfe,TN,U.S. Senate Tennessee,Senator,Regular,8/2/18,Lost,None,0.0,-27.139999,3.21,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-656,Phil Bredesen,TN,U.S. Senate Tennessee,Senator,Regular,8/2/18,Advanced,None,1.0,-27.139999,91.510002,Yes,0.0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,3
-763,Beto O'Rourke,TX,U.S. Senate Texas,Senator,Regular,3/6/18,Advanced,None,1.0,-13.23,61.810001,Yes,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,3
-764,Edward Kimbrough,TX,U.S. Senate Texas,Senator,Regular,3/6/18,Lost,None,0.0,-13.23,14.47,No,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-765,Sema Hernandez,TX,U.S. Senate Texas,Senator,Regular,3/6/18,Lost,None,0.0,-13.23,23.719999,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-771,Jenny Wilson,UT,U.S. Senate Utah,Senator,Regular,6/26/18,Advanced,None,1.0,-28.1,100.0,Yes,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+,Candidate,State,District,Office Type,Race Type,Race Primary Election Date,Primary Status,Primary Runoff Status,General Status,Partisan Lean,Primary %,Won Primary,Race,Veteran?,LGBTQ?,Elected Official?,Self-Funder?,STEM?,Obama Alum?,Party Support?,Emily Endorsed?,Guns Sense Candidate?,Biden Endorsed?,Warren Endorsed? ,Sanders Endorsed?,Our Revolution Endorsed?,Justice Dems Endorsed?,PCCC Endorsed?,Indivisible Endorsed?,WFP Endorsed?,VoteVets Endorsed?,No Labels Support?,total_runners
+350,David Baria,MS,U.S. Senate Mississippi,Senator,Regular,6/5/18,Advanced,Advanced,1.0,-18.780001,30.98,Yes,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+351,Howard Sherman,MS,U.S. Senate Mississippi,Senator,Regular,6/5/18,Advanced,Lost,0.0,-18.780001,31.790001,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+352,Jensen Bohren,MS,U.S. Senate Mississippi,Senator,Regular,6/5/18,Lost,None,0.0,-18.780001,3.21,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+353,Jerone Garland,MS,U.S. Senate Mississippi,Senator,Regular,6/5/18,Lost,None,0.0,-18.780001,4.8499999,No,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+354,Omeria Scott,MS,U.S. Senate Mississippi,Senator,Regular,6/5/18,Lost,None,0.0,-18.780001,24.200001,No,1.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+355,Victor Maurice Jr.,MS,U.S. Senate Mississippi,Senator,Regular,6/5/18,Lost,None,0.0,-18.780001,4.96,No,1.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+391,Chris Janicek,NE,U.S. Senate Nebraska,Senator,Regular,5/15/18,Lost,None,0.0,-26.76,20.219999,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+392,Frank Svoboda,NE,U.S. Senate Nebraska,Senator,Regular,5/15/18,Lost,None,0.0,-26.76,11.37,No,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+393,Jane Raybould,NE,U.S. Senate Nebraska,Senator,Regular,5/15/18,Advanced,None,1.0,-26.76,63.68,Yes,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+394,Larry Marvin,NE,U.S. Senate Nebraska,Senator,Regular,5/15/18,Lost,None,0.0,-26.76,4.7399998,No,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+446,Allen Rheinhart,NV,U.S. Senate Nevada,Senator,Regular,6/12/18,Lost,None,0.0,0.94999999,3.3299999,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+447,Bobby Mahendra,NV,U.S. Senate Nevada,Senator,Regular,6/12/18,Lost,None,0.0,0.94999999,2.6700001,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+448,Daniel Burleigh,NV,U.S. Senate Nevada,Senator,Regular,6/12/18,Lost,None,0.0,0.94999999,2.26,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+449,David Drew Knight,NV,U.S. Senate Nevada,Senator,Regular,6/12/18,Lost,None,0.0,0.94999999,4.4299998,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+450,Jacky Rosen,NV,U.S. Senate Nevada,Senator,Regular,6/12/18,Advanced,None,1.0,0.94999999,77.110001,Yes,,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6
+451,Jesse Sbaih,NV,U.S. Senate Nevada,Senator,Regular,6/12/18,Lost,None,0.0,0.94999999,3.1700001,No,1.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,6
+654,Gary Davis,TN,U.S. Senate Tennessee,Senator,Regular,8/2/18,Lost,None,0.0,-27.139999,5.2800002,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+655,John Wolfe,TN,U.S. Senate Tennessee,Senator,Regular,8/2/18,Lost,None,0.0,-27.139999,3.21,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+656,Phil Bredesen,TN,U.S. Senate Tennessee,Senator,Regular,8/2/18,Advanced,None,1.0,-27.139999,91.510002,Yes,0.0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3
+763,Beto O'Rourke,TX,U.S. Senate Texas,Senator,Regular,3/6/18,Advanced,None,1.0,-13.23,61.810001,Yes,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3
+764,Edward Kimbrough,TX,U.S. Senate Texas,Senator,Regular,3/6/18,Lost,None,0.0,-13.23,14.47,No,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+765,Sema Hernandez,TX,U.S. Senate Texas,Senator,Regular,3/6/18,Lost,None,0.0,-13.23,23.719999,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3

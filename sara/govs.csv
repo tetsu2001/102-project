@@ -1,101 +1,100 @@
-,Candidate,State,District,Office Type,Race Type,Race Primary Election Date,Primary Status,Primary Runoff Status,General Status,Partisan Lean,Primary %,Won Primary,Race,Veteran?,LGBTQ?,Elected Official?,Self-Funder?,STEM?,Obama Alum?,Party Support?,Emily Endorsed?,Guns Sense Candidate?,Biden Endorsed?,Warren Endorsed? ,Sanders Endorsed?,Our Revolution Endorsed?,Justice Dems Endorsed?,PCCC Endorsed?,Indivisible Endorsed?,WFP Endorsed?,VoteVets Endorsed?,No Labels Support?,total_runners_x,total_runners_y
-0,Anthony White (Alabama),AL,Governor of Alabama,Governor,Regular,6/5/18,Lost,None,0.0,-28.879999,3.4200001,No,1.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-1,Christopher Countryman,AL,Governor of Alabama,Governor,Regular,6/5/18,Lost,None,0.0,-28.879999,1.74,No,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-2,"Doug ""New Blue"" Smith",AL,Governor of Alabama,Governor,Regular,6/5/18,Lost,None,0.0,-28.879999,3.27,No,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-3,James C. Fields,AL,Governor of Alabama,Governor,Regular,6/5/18,Lost,None,0.0,-28.879999,8.0,No,1.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-4,Sue Bell Cobb,AL,Governor of Alabama,Governor,Regular,6/5/18,Lost,None,0.0,-28.879999,28.98,No,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-5,Walt Maddox,AL,Governor of Alabama,Governor,Regular,6/5/18,Advanced,None,1.0,-28.879999,54.599998,Yes,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,6
-16,Jared Henderson,AR,Governor of Arkansas,Governor,Regular,5/22/18,Advanced,None,1.0,-28.639999,63.299999,Yes,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
-17,Leticia Sanders,AR,Governor of Arkansas,Governor,Regular,5/22/18,Lost,None,0.0,-28.639999,36.700001,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
-27,Akinyemi Agbede,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.22,No,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12
-28,Albert Caesar Mezzetti,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.28,No,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12
-29,Amanda Renteria,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,2.1500001,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12
-30,Antonio Villaraigosa,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,21.290001,No,1.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12
-31,Delaine Eastin,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,5.4000001,No,0.0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,12,12
-32,Gavin Newsom,CA,Governor of California,Governor,Regular,6/5/18,Advanced,None,1.0,25.83,53.869999,Yes,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12,12
-33,John Chiang,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,15.08,No,1.0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12,12
-34,Juan Bribiesca,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.40000001,No,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12
-35,Klement Tinaj,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.12,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12
-36,Michael Shellenberger,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.73000002,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12
-37,Robert Davidson Griffis,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.25999999,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12
-38,Thomas Jefferson Cares,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.20999999,No,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12
-95,Cary Kennedy,CO,Governor of Colorado,Governor,Regular,6/26/18,Lost,None,0.0,2.49,24.719999,No,0.0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,4,4
-96,Donna Lynne,CO,Governor of Colorado,Governor,Regular,6/26/18,Lost,None,0.0,2.49,7.2800002,No,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
-97,Jared Polis,CO,Governor of Colorado,Governor,Regular,6/26/18,Advanced,None,1.0,2.49,44.43,Yes,0.0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
-98,Michael Johnston,CO,Governor of Colorado,Governor,Regular,6/26/18,Lost,None,0.0,2.49,23.57,No,0.0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
-109,Stacey Abrams,GA,Governor of Georgia,Governor,Regular,5/22/18,Advanced,None,1.0,-8.3400002,76.440002,Yes,1.0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0,2,2
-110,Stacey Evans,GA,Governor of Georgia,Governor,Regular,5/22/18,Lost,None,0.0,-8.3400002,23.559999,No,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
-135,Andy McGuire,IA,Governor of Iowa,Governor,Regular,6/5/18,Lost,None,0.0,-8.1400003,5.25,No,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-136,Cathy Glasson,IA,Governor of Iowa,Governor,Regular,6/5/18,Lost,None,0.0,-8.1400003,20.549999,No,0.0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,6,6
-137,Fred Hubbell,IA,Governor of Iowa,Governor,Regular,6/5/18,Advanced,None,1.0,-8.1400003,55.41,Yes,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-138,John Norris,IA,Governor of Iowa,Governor,Regular,6/5/18,Lost,None,0.0,-8.1400003,11.44,No,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-139,Nate Boulton,IA,Governor of Iowa,Governor,Regular,6/5/18,Lost,None,0.0,-8.1400003,4.9699998,No,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-140,Ross Wilburn,IA,Governor of Iowa,Governor,Regular,6/5/18,Lost,None,0.0,-8.1400003,2.1700001,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-151,A.J. Balukoff,ID,Governor of Idaho,Governor,Regular,5/15/18,Lost,None,0.0,-34.330002,40.099998,No,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-152,Paulette E. Jordan,ID,Governor of Idaho,Governor,Regular,5/15/18,Advanced,None,1.0,-34.330002,58.400002,Yes,1.0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,3,3
-153,Peter Dill,ID,Governor of Idaho,Governor,Regular,5/15/18,Lost,None,0.0,-34.330002,1.4,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-159,Bob Daiber,IL,Governor of Illinois,Governor,Regular,3/20/18,Lost,None,0.0,14.48,1.1,No,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-160,Chris Kennedy,IL,Governor of Illinois,Governor,Regular,3/20/18,Lost,None,0.0,14.48,24.4,No,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-161,Daniel K. Biss,IL,Governor of Illinois,Governor,Regular,3/20/18,Lost,None,0.0,14.48,26.700001,No,0.0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,6,6
-162,J.B. Pritzker,IL,Governor of Illinois,Governor,Regular,3/20/18,Advanced,None,1.0,14.48,45.099998,Yes,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-163,Robert Marshall,IL,Governor of Illinois,Governor,Regular,3/20/18,Lost,None,0.0,14.48,1.1,No,0.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-164,Tio Hardiman,IL,Governor of Illinois,Governor,Regular,3/20/18,Lost,None,0.0,14.48,1.6,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-228,Arden Andersen,KS,Governor of Kansas,Governor,Regular,8/7/18,Lost,None,0.0,-23.41,7.9000001,No,0.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5
-229,Carl Brewer,KS,Governor of Kansas,Governor,Regular,8/7/18,Lost,None,0.0,-23.41,20.6,No,1.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5
-230,Jack Bergeson,KS,Governor of Kansas,Governor,Regular,8/7/18,Lost,None,0.0,-23.41,2.5999999,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5
-231,Joshua Svaty,KS,Governor of Kansas,Governor,Regular,8/7/18,Lost,None,0.0,-23.41,17.799999,No,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,5
-232,Laura Kelly,KS,Governor of Kansas,Governor,Regular,8/7/18,Advanced,None,1.0,-23.41,51.400002,Yes,0.0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,5
-260,Alec Ross,MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,2.3,No,0.0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,8,8
-261,Ben Jealous,MD,Governor of Maryland,Governor,Regular,6/26/18,Advanced,None,1.0,23.799999,39.599998,Yes,1.0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,8,8
-262,James Jones,MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,1.5,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8
-263,Jim Shea (Maryland),MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,8.3000002,No,0.0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8,8
-264,Krishanti Vignarajah,MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,8.1999998,No,1.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,8,8
-265,Ralph Jaffe,MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,1.6,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8
-266,Richard Madaleno,MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,5.8000002,No,0.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8,8
-267,Rushern Baker III,MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,29.4,No,1.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8,8
-282,Adam Cote,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,0.0,3.51,28.129999,No,0.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7,7
-283,Betsy Sweet,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,0.0,3.51,16.459999,No,0.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,7,7
-284,Diane Russell,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,0.0,3.51,2.1600001,No,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,7,7
-285,Donna Dion,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,0.0,3.51,1.27,No,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7,7
-286,Janet T. Mills,ME,Governor of Maine,Governor,Regular,6/12/18,Advanced,None,1.0,3.51,33.09,Yes,0.0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,7
-287,Mark Dion,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,0.0,3.51,4.1199999,No,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7,7
-288,Mark Eves,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,0.0,3.51,14.18,No,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,7,7
-293,Abdul El-Sayed,MI,Governor of Michigan,Governor,Regular,8/7/18,Lost,None,0.0,-0.33000001,30.5,No,1.0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,3,3
-294,Gretchen Whitmer,MI,Governor of Michigan,Governor,Regular,8/7/18,Advanced,None,1.0,-0.33000001,51.799999,Yes,0.0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3,3
-295,Shri Thanedar,MI,Governor of Michigan,Governor,Regular,8/7/18,Lost,None,0.0,-0.33000001,17.700001,No,1.0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,3
-383,Bob Krist,NE,Governor of Nebraska,Governor,Regular,5/15/18,Advanced,None,1.0,-26.76,59.810001,Yes,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-384,Tyler Davis,NE,Governor of Nebraska,Governor,Regular,5/15/18,Lost,None,0.0,-26.76,11.39,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-385,Vanessa Ward,NE,Governor of Nebraska,Governor,Regular,5/15/18,Lost,None,0.0,-26.76,28.799999,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-410,Jeff Apodaca,NM,Governor of New Mexico,Governor,Regular,6/5/18,Lost,None,0.0,6.1599998,22.16,No,1.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-411,Joseph Cervantes,NM,Governor of New Mexico,Governor,Regular,6/5/18,Lost,None,0.0,6.1599998,11.47,No,1.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-412,Michelle Lujan Grisham,NM,Governor of New Mexico,Governor,Regular,6/5/18,Advanced,None,1.0,6.1599998,66.379997,Yes,1.0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3
-421,Asheesh Dewan,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,0.0,0.94999999,1.01,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-422,Chris Giunchigliani,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,0.0,0.94999999,38.860001,No,,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,6,6
-423,David Jones,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,0.0,0.94999999,1.73,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-424,Henry Thorns,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,0.0,0.94999999,1.9,No,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-425,John Bonaventura,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,0.0,0.94999999,2.99,No,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-426,Steve Sisolak,NV,Governor of Nevada,Governor,Regular,6/12/18,Advanced,None,1.0,0.94999999,50.029999,Yes,,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,6
-490,Dennis J. Kucinich,OH,Governor of Ohio,Governor,Regular,5/8/18,Lost,None,0.0,-7.8899999,22.98,No,0.0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,6,6
-491,Joseph Schiavoni,OH,Governor of Ohio,Governor,Regular,5/8/18,Lost,None,0.0,-7.8899999,9.1700001,No,,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,6
-492,Larry Ealy,OH,Governor of Ohio,Governor,Regular,5/8/18,Lost,None,0.0,-7.8899999,1.02,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-493,Paul Ray,OH,Governor of Ohio,Governor,Regular,5/8/18,Lost,None,0.0,-7.8899999,1.38,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-494,Richard Cordray,OH,Governor of Ohio,Governor,Regular,5/8/18,Advanced,None,1.0,-7.8899999,62.16,Yes,0.0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,6,6
-495,William O'Neill,OH,Governor of Ohio,Governor,Regular,5/8/18,Lost,None,0.0,-7.8899999,3.29,No,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
-537,Constance Johnson,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Lost,None,0.0,-38.209999,38.619999,No,1.0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2
-538,Drew Edmondson,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Advanced,None,1.0,-38.209999,61.380001,Yes,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
-610,James Smith Jr.,SC,Governor of South Carolina,Governor,Regular,6/12/18,Advanced,None,1.0,-15.85,61.810001,Yes,0.0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,3,3
-611,Marguerite Willis,SC,Governor of South Carolina,Governor,Regular,6/12/18,Lost,None,0.0,-15.85,27.549999,No,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-612,Phil Noble,SC,Governor of South Carolina,Governor,Regular,6/12/18,Lost,None,0.0,-15.85,10.64,No,0.0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-633,Billie Sutton,SD,Governor of South Dakota,Governor,Regular,6/5/18,Advanced,None,1.0,-29.379999,100.0,Yes,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
-635,Craig Fitzhugh,TN,Governor of Tennessee,Governor,Regular,8/2/18,Lost,None,0.0,-27.139999,19.42,No,0.0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,3,3
-636,Karl Dean,TN,Governor of Tennessee,Governor,Regular,8/2/18,Advanced,None,1.0,-27.139999,75.139999,Yes,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-637,Mezianne Vale Payne,TN,Governor of Tennessee,Governor,Regular,8/2/18,Lost,None,0.0,-27.139999,5.4400001,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-657,Adrian Ocegueda,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,4.4000001,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9
-658,Andrew White,TX,Governor of Texas,Governor,Regular,3/6/18,Advanced,Lost,0.0,-13.23,27.4,No,0.0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9,9
-659,Cedric Davis,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,8.2399998,No,1.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9
-660,Grady Yarbrough,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,5.3699999,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9
-661,James Clark,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,2.1500001,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9
-662,Jeffrey Payne,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,4.75,No,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9
-663,Joe Mumbach,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,1.36,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9
-664,Lupe Valdez,TX,Governor of Texas,Governor,Regular,3/6/18,Advanced,Advanced,1.0,-13.23,42.91,Yes,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9
-665,Thomas Wakely,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,3.4100001,No,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9
+,Candidate,State,District,Office Type,Race Type,Race Primary Election Date,Primary Status,Primary Runoff Status,General Status,Partisan Lean,Primary %,Won Primary,Race,Veteran?,LGBTQ?,Elected Official?,Self-Funder?,STEM?,Obama Alum?,Party Support?,Emily Endorsed?,Guns Sense Candidate?,Biden Endorsed?,Warren Endorsed? ,Sanders Endorsed?,Our Revolution Endorsed?,Justice Dems Endorsed?,PCCC Endorsed?,Indivisible Endorsed?,WFP Endorsed?,VoteVets Endorsed?,No Labels Support?,total_runners
+0,Anthony White (Alabama),AL,Governor of Alabama,Governor,Regular,6/5/18,Lost,None,0.0,-28.879999,3.4200001,No,1.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+1,Christopher Countryman,AL,Governor of Alabama,Governor,Regular,6/5/18,Lost,None,0.0,-28.879999,1.74,No,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2,"Doug ""New Blue"" Smith",AL,Governor of Alabama,Governor,Regular,6/5/18,Lost,None,0.0,-28.879999,3.27,No,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+3,James C. Fields,AL,Governor of Alabama,Governor,Regular,6/5/18,Lost,None,0.0,-28.879999,8.0,No,1.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+4,Sue Bell Cobb,AL,Governor of Alabama,Governor,Regular,6/5/18,Lost,None,0.0,-28.879999,28.98,No,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+5,Walt Maddox,AL,Governor of Alabama,Governor,Regular,6/5/18,Advanced,None,1.0,-28.879999,54.599998,Yes,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+16,Jared Henderson,AR,Governor of Arkansas,Governor,Regular,5/22/18,Advanced,None,1.0,-28.639999,63.299999,Yes,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+17,Leticia Sanders,AR,Governor of Arkansas,Governor,Regular,5/22/18,Lost,None,0.0,-28.639999,36.700001,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+27,Akinyemi Agbede,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.22,No,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+28,Albert Caesar Mezzetti,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.28,No,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+29,Amanda Renteria,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,2.1500001,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+30,Antonio Villaraigosa,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,21.290001,No,1.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+31,Delaine Eastin,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,5.4000001,No,0.0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,12
+32,Gavin Newsom,CA,Governor of California,Governor,Regular,6/5/18,Advanced,None,1.0,25.83,53.869999,Yes,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+33,John Chiang,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,15.08,No,1.0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+34,Juan Bribiesca,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.40000001,No,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+35,Klement Tinaj,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.12,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+36,Michael Shellenberger,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.73000002,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+37,Robert Davidson Griffis,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.25999999,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+38,Thomas Jefferson Cares,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,0.0,25.83,0.20999999,No,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+95,Cary Kennedy,CO,Governor of Colorado,Governor,Regular,6/26/18,Lost,None,0.0,2.49,24.719999,No,0.0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,4
+96,Donna Lynne,CO,Governor of Colorado,Governor,Regular,6/26/18,Lost,None,0.0,2.49,7.2800002,No,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+97,Jared Polis,CO,Governor of Colorado,Governor,Regular,6/26/18,Advanced,None,1.0,2.49,44.43,Yes,0.0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+98,Michael Johnston,CO,Governor of Colorado,Governor,Regular,6/26/18,Lost,None,0.0,2.49,23.57,No,0.0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+109,Stacey Abrams,GA,Governor of Georgia,Governor,Regular,5/22/18,Advanced,None,1.0,-8.3400002,76.440002,Yes,1.0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0,2
+110,Stacey Evans,GA,Governor of Georgia,Governor,Regular,5/22/18,Lost,None,0.0,-8.3400002,23.559999,No,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+135,Andy McGuire,IA,Governor of Iowa,Governor,Regular,6/5/18,Lost,None,0.0,-8.1400003,5.25,No,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+136,Cathy Glasson,IA,Governor of Iowa,Governor,Regular,6/5/18,Lost,None,0.0,-8.1400003,20.549999,No,0.0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,6
+137,Fred Hubbell,IA,Governor of Iowa,Governor,Regular,6/5/18,Advanced,None,1.0,-8.1400003,55.41,Yes,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+138,John Norris,IA,Governor of Iowa,Governor,Regular,6/5/18,Lost,None,0.0,-8.1400003,11.44,No,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+139,Nate Boulton,IA,Governor of Iowa,Governor,Regular,6/5/18,Lost,None,0.0,-8.1400003,4.9699998,No,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+140,Ross Wilburn,IA,Governor of Iowa,Governor,Regular,6/5/18,Lost,None,0.0,-8.1400003,2.1700001,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+151,A.J. Balukoff,ID,Governor of Idaho,Governor,Regular,5/15/18,Lost,None,0.0,-34.330002,40.099998,No,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+152,Paulette E. Jordan,ID,Governor of Idaho,Governor,Regular,5/15/18,Advanced,None,1.0,-34.330002,58.400002,Yes,1.0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,3
+153,Peter Dill,ID,Governor of Idaho,Governor,Regular,5/15/18,Lost,None,0.0,-34.330002,1.4,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+159,Bob Daiber,IL,Governor of Illinois,Governor,Regular,3/20/18,Lost,None,0.0,14.48,1.1,No,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+160,Chris Kennedy,IL,Governor of Illinois,Governor,Regular,3/20/18,Lost,None,0.0,14.48,24.4,No,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+161,Daniel K. Biss,IL,Governor of Illinois,Governor,Regular,3/20/18,Lost,None,0.0,14.48,26.700001,No,0.0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,6
+162,J.B. Pritzker,IL,Governor of Illinois,Governor,Regular,3/20/18,Advanced,None,1.0,14.48,45.099998,Yes,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+163,Robert Marshall,IL,Governor of Illinois,Governor,Regular,3/20/18,Lost,None,0.0,14.48,1.1,No,0.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+164,Tio Hardiman,IL,Governor of Illinois,Governor,Regular,3/20/18,Lost,None,0.0,14.48,1.6,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+228,Arden Andersen,KS,Governor of Kansas,Governor,Regular,8/7/18,Lost,None,0.0,-23.41,7.9000001,No,0.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+229,Carl Brewer,KS,Governor of Kansas,Governor,Regular,8/7/18,Lost,None,0.0,-23.41,20.6,No,1.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+230,Jack Bergeson,KS,Governor of Kansas,Governor,Regular,8/7/18,Lost,None,0.0,-23.41,2.5999999,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+231,Joshua Svaty,KS,Governor of Kansas,Governor,Regular,8/7/18,Lost,None,0.0,-23.41,17.799999,No,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5
+232,Laura Kelly,KS,Governor of Kansas,Governor,Regular,8/7/18,Advanced,None,1.0,-23.41,51.400002,Yes,0.0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5
+260,Alec Ross,MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,2.3,No,0.0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,8
+261,Ben Jealous,MD,Governor of Maryland,Governor,Regular,6/26/18,Advanced,None,1.0,23.799999,39.599998,Yes,1.0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,8
+262,James Jones,MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,1.5,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+263,Jim Shea (Maryland),MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,8.3000002,No,0.0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8
+264,Krishanti Vignarajah,MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,8.1999998,No,1.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,8
+265,Ralph Jaffe,MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,1.6,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+266,Richard Madaleno,MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,5.8000002,No,0.0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8
+267,Rushern Baker III,MD,Governor of Maryland,Governor,Regular,6/26/18,Lost,None,0.0,23.799999,29.4,No,1.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8
+282,Adam Cote,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,0.0,3.51,28.129999,No,0.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7
+283,Betsy Sweet,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,0.0,3.51,16.459999,No,0.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,7
+284,Diane Russell,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,0.0,3.51,2.1600001,No,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,7
+285,Donna Dion,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,0.0,3.51,1.27,No,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7
+286,Janet T. Mills,ME,Governor of Maine,Governor,Regular,6/12/18,Advanced,None,1.0,3.51,33.09,Yes,0.0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7
+287,Mark Dion,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,0.0,3.51,4.1199999,No,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7
+288,Mark Eves,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,0.0,3.51,14.18,No,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,7
+293,Abdul El-Sayed,MI,Governor of Michigan,Governor,Regular,8/7/18,Lost,None,0.0,-0.33000001,30.5,No,1.0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,3
+294,Gretchen Whitmer,MI,Governor of Michigan,Governor,Regular,8/7/18,Advanced,None,1.0,-0.33000001,51.799999,Yes,0.0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3
+295,Shri Thanedar,MI,Governor of Michigan,Governor,Regular,8/7/18,Lost,None,0.0,-0.33000001,17.700001,No,1.0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3
+383,Bob Krist,NE,Governor of Nebraska,Governor,Regular,5/15/18,Advanced,None,1.0,-26.76,59.810001,Yes,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+384,Tyler Davis,NE,Governor of Nebraska,Governor,Regular,5/15/18,Lost,None,0.0,-26.76,11.39,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+385,Vanessa Ward,NE,Governor of Nebraska,Governor,Regular,5/15/18,Lost,None,0.0,-26.76,28.799999,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+410,Jeff Apodaca,NM,Governor of New Mexico,Governor,Regular,6/5/18,Lost,None,0.0,6.1599998,22.16,No,1.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+411,Joseph Cervantes,NM,Governor of New Mexico,Governor,Regular,6/5/18,Lost,None,0.0,6.1599998,11.47,No,1.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+412,Michelle Lujan Grisham,NM,Governor of New Mexico,Governor,Regular,6/5/18,Advanced,None,1.0,6.1599998,66.379997,Yes,1.0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+421,Asheesh Dewan,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,0.0,0.94999999,1.01,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+422,Chris Giunchigliani,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,0.0,0.94999999,38.860001,No,,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,6
+423,David Jones,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,0.0,0.94999999,1.73,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+424,Henry Thorns,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,0.0,0.94999999,1.9,No,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+425,John Bonaventura,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,0.0,0.94999999,2.99,No,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+426,Steve Sisolak,NV,Governor of Nevada,Governor,Regular,6/12/18,Advanced,None,1.0,0.94999999,50.029999,Yes,,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+490,Dennis J. Kucinich,OH,Governor of Ohio,Governor,Regular,5/8/18,Lost,None,0.0,-7.8899999,22.98,No,0.0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,6
+491,Joseph Schiavoni,OH,Governor of Ohio,Governor,Regular,5/8/18,Lost,None,0.0,-7.8899999,9.1700001,No,,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6
+492,Larry Ealy,OH,Governor of Ohio,Governor,Regular,5/8/18,Lost,None,0.0,-7.8899999,1.02,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+493,Paul Ray,OH,Governor of Ohio,Governor,Regular,5/8/18,Lost,None,0.0,-7.8899999,1.38,No,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+494,Richard Cordray,OH,Governor of Ohio,Governor,Regular,5/8/18,Advanced,None,1.0,-7.8899999,62.16,Yes,0.0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,6
+495,William O'Neill,OH,Governor of Ohio,Governor,Regular,5/8/18,Lost,None,0.0,-7.8899999,3.29,No,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+537,Constance Johnson,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Lost,None,0.0,-38.209999,38.619999,No,1.0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+538,Drew Edmondson,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Advanced,None,1.0,-38.209999,61.380001,Yes,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+610,James Smith Jr.,SC,Governor of South Carolina,Governor,Regular,6/12/18,Advanced,None,1.0,-15.85,61.810001,Yes,0.0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,3
+611,Marguerite Willis,SC,Governor of South Carolina,Governor,Regular,6/12/18,Lost,None,0.0,-15.85,27.549999,No,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+612,Phil Noble,SC,Governor of South Carolina,Governor,Regular,6/12/18,Lost,None,0.0,-15.85,10.64,No,0.0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+635,Craig Fitzhugh,TN,Governor of Tennessee,Governor,Regular,8/2/18,Lost,None,0.0,-27.139999,19.42,No,0.0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,3
+636,Karl Dean,TN,Governor of Tennessee,Governor,Regular,8/2/18,Advanced,None,1.0,-27.139999,75.139999,Yes,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+637,Mezianne Vale Payne,TN,Governor of Tennessee,Governor,Regular,8/2/18,Lost,None,0.0,-27.139999,5.4400001,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+657,Adrian Ocegueda,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,4.4000001,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+658,Andrew White,TX,Governor of Texas,Governor,Regular,3/6/18,Advanced,Lost,0.0,-13.23,27.4,No,0.0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9
+659,Cedric Davis,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,8.2399998,No,1.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+660,Grady Yarbrough,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,5.3699999,No,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+661,James Clark,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,2.1500001,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+662,Jeffrey Payne,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,4.75,No,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+663,Joe Mumbach,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,1.36,No,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+664,Lupe Valdez,TX,Governor of Texas,Governor,Regular,3/6/18,Advanced,Advanced,1.0,-13.23,42.91,Yes,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+665,Thomas Wakely,TX,Governor of Texas,Governor,Regular,3/6/18,Lost,None,0.0,-13.23,3.4100001,No,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
