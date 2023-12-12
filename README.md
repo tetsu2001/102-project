@@ -1,22 +1,6 @@
-# Primary Candidates 2018
-
-This folder contains the data behind the stories: 
-
-* [We Researched Hundreds Of Races. Here’s Who Democrats Are Nominating.](https://fivethirtyeight.com/features/democrats-primaries-candidates-demographics/)
-* [How’s The Progressive Wing Doing In Democratic Primaries So Far?](https://fivethirtyeight.com/features/the-establishment-is-beating-the-progressive-wing-in-democratic-primaries-so-far/)
-* [We Looked At Hundreds Of Endorsements. Here’s Who Republicans Are Listening To.](https://fivethirtyeight.com/features/we-looked-at-hundreds-of-endorsements-heres-who-republicans-are-listening-to/)
-
-
-This project looks at patterns in open Democratic and Republican primary elections for the U.S. Senate, U.S. House and governor in 2018.
-
-`dem_candidates.csv` contains information about the 811 candidates who have appeared on the ballot this year in Democratic primaries for Senate, House and governor, not counting races featuring a Democratic incumbent, as of August 7, 2018. 
-
-`rep_candidates.csv` contains information about the 774 candidates who have appeared on the ballot this year in Republican primaries for Senate, House and governor, not counting races featuring a Republican incumbent, through September 13, 2018. 
-
-Here is a description and source for each column in the accompanying datasets.
-
-`dem_candidates.csv` and `rep_candidates.csv` include: 
-
+Causal Inference and Statistical Learning Methods on US 2018 Midterm Primaries
+By Aileen Wu, Nikki Iyer, Carlos Gonzalez, and Sara Tetsu
+with special thanks to Dominic Liu and Ramesh Sridharan for Data, Inference, & Decisions
 Column | Description 
 -------|--------------
 `Candidate` | All candidates who received votes in 2018’s Democratic primary elections for U.S. Senate, U.S. House and governor in which no incumbent ran. Supplied by Ballotpedia.
