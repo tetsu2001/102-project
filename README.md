@@ -1,5 +1,9 @@
 # Causal Inference and Statistical Learning Methods on 2018 Democratic Primary Elections  
-## Written By: Aileen Wu, Nikki Iyer, Carlos Gonzalez, and Sara Tetsu
+
+By Aileen Wu, Nikki Iyer, Carlos Gonzalez, and Sara Tetsu
+Special thanks to Dominic 
+![IMG_8188](https://github.com/tetsu2001/102-project/assets/98058378/6e7ed604-b019-4ea7-a8ba-373404783c3c)
+
 
 Column | Description 
 -------|--------------
