@@ -1,4 +1,6 @@
-# Primary Candidates 2018
+# Cansal Inference and Statistical Learning Methods on 2018 Democratic Primary Elections  
+By Aileen Wu
+With moral support from Nikki Iyer, Carlos Gonzalez, and Sara Tetsu
 
 This folder contains the data behind the stories: 
 
