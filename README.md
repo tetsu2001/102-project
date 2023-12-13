@@ -11,7 +11,13 @@ _Special thanks to Dominic Liu, without whom, none of this would have been possi
 ![IMG_8188](https://github.com/tetsu2001/102-project/assets/98058378/6e7ed604-b019-4ea7-a8ba-373404783c3c)
 
 ## About the Data
-The dataset used in our research, ```house.csv``` is an original dataset put together by Aileen Wu and Sara Tetsu. The dataset contains information on candidates who ran in the Democratic Primary Elections for the House of Representatives in 2018. The 632 candidates in our dataset are those who ran in races where the incumbent was not seeking re-election, and were also running unopposed in the primary election (had at least one opponent). Data in this dataset were gathered from three sources: FiveThirtyEight, an American media company now owned by the American Broadcasting Coompany (ABC), the Brookings Institute, an independent nonprofit research institution in Washington D.C., and the Federal Elections Commission, an independent government agency. 
+- The dataset used in our research, ```house.csv``` is an original dataset put together by Aileen Wu and Sara Tetsu. 
+
+- The dataset contains information on candidates who ran in the Democratic Primary Elections for the House of Representatives in 2018. The 632 candidates in our dataset are those who ran in races where the incumbent was not seeking re-election, and were also running unopposed in the primary election (had at least one opponent).
+- Data in this dataset were gathered from three sources:
+1. FiveThirtyEight, an American media company now owned by the American Broadcasting Coompany (ABC). 
+2. the Brookings Institute, an independent nonprofit research institution in Washington D.C.
+3. the Federal Elections Commission (FEC), an independent government agency. 
 
 
 Column | Description 
