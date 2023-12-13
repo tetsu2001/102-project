@@ -19,6 +19,7 @@ _Special thanks to Dominic Liu, without whom, none of this would have been possi
 2. the Brookings Institute, an independent nonprofit research institution in Washington D.C.
 3. the Federal Elections Commission (FEC), an independent government agency. 
 
+## Column Descriptions
 
 Column | Description 
 -------|--------------
