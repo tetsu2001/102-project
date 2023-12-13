@@ -23,7 +23,7 @@ _Special thanks to Dominic Liu, without whom, none of this would have been possi
 
 Column | Description 
 -------|--------------
-`Candidate` | All candidates who received votes in 2018’s Democratic primary elections for U.S. Senate, U.S. House and governor in which no incumbent ran. Supplied by Ballotpedia.
+`Candidate` | Name of candidate. Supplied by Ballotpedia.
 `State` | The state in which the candidate ran. Supplied by Ballotpedia.
 `District` | The office and, if applicable, congressional district number for which the candidate ran. Supplied by Ballotpedia.
 `Race Primary Election Date` | The date on which the primary was held. Supplied by Ballotpedia.
