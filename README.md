@@ -1,7 +1,11 @@
 # 🦄Causal Inference and Statistical Learning Methods on 2018 Democratic Primary Elections  
 
 By Aileen Wu, Nikki Iyer, Carlos Gonzalez, and Sara Tetsu
+
 Special thanks to Dominic Liu, without whom, none of this would have been possible. 
+
+
+
 
 
 
