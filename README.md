@@ -15,9 +15,9 @@ _Special thanks to Dominic Liu, without whom, none of this would have been possi
 
 - The dataset contains information on candidates who ran in the Democratic Primary Elections for the House of Representatives in 2018. The 632 candidates in our dataset are those who ran in races where the incumbent was not seeking re-election, and were also running unopposed in the primary election (had at least one opponent).
 - Data in this dataset were gathered from three sources:
-1. FiveThirtyEight, an American media company now owned by the American Broadcasting Coompany (ABC). 
-2. the Brookings Institute, an independent nonprofit research institution in Washington D.C.
-3. the Federal Elections Commission (FEC), an independent government agency. 
+  1. FiveThirtyEight, an American media company now owned by the American Broadcasting Coompany (ABC). 
+  2. the Brookings Institute, an independent nonprofit research institution in Washington D.C.
+  3. the Federal Elections Commission (FEC), an independent government agency. 
 
 ## Column Descriptions
 
