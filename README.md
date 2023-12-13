@@ -2,8 +2,7 @@
 
 **By Aileen Wu, Nikki Iyer, Carlos Gonzalez, and Sara Tetsu**
 
-_Special thanks to Dominic Liu, without whom, none of this would have been possible. 
-_
+_Special thanks to Dominic Liu, without whom, none of this would have been possible._
 
 
 
