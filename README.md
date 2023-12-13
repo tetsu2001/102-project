@@ -11,20 +11,17 @@ Special thanks to Dominic Liu, without whom, none of this would have been possib
 
 ![IMG_8188](https://github.com/tetsu2001/102-project/assets/98058378/6e7ed604-b019-4ea7-a8ba-373404783c3c)
 
+The dataset used in our research, ```house.csv``` is an original dataset put together by Aileen Wu and Sara Tetsu. The dataset contains information on candidates who ran in the Democratic Primary Elections for the House of Representatives in 2018. The 632 candidates in our dataset are those who ran in races where the incumbent was not seeking re-election, and were also running unopposed in the primary election (had at least one opponent). Data in this dataset were gathered from three sources: FiveThirtyEight, an American media company now owned by the American Broadcasting Coompany (ABC), the Brookings Institute, an independent nonprofit research institution in Washington D.C., and the Federal Elections Commission, an independent government agency. 
+
 
 Column | Description 
 -------|--------------
 `Candidate` | All candidates who received votes in 2018’s Democratic primary elections for U.S. Senate, U.S. House and governor in which no incumbent ran. Supplied by Ballotpedia.
 `State` | The state in which the candidate ran. Supplied by Ballotpedia.
 `District` | The office and, if applicable, congressional district number for which the candidate ran. Supplied by Ballotpedia.
-`Office Type` | The office for which the candidate ran. Supplied by Ballotpedia.
-`Race Type` | Whether it was a “regular” or “special” election. Supplied by Ballotpedia.
 `Race Primary Election Date` | The date on which the primary was held. Supplied by Ballotpedia.
-`Primary Status` | Whether the candidate lost (“Lost”) the primary or won/advanced to a runoff (“Advanced”). Supplied by Ballotpedia.
-`Primary Runoff Status` | “None” if there was no runoff; “On the Ballot” if the candidate advanced to a runoff but it hasn’t been held yet; “Advanced” if the candidate won the runoff; “Lost” if the candidate lost the runoff. Supplied by Ballotpedia.
 `General Status` | “On the Ballot” if the candidate won the primary or runoff and has advanced to November; otherwise, “None.” Supplied by Ballotpedia.
 `Primary %` | The percentage of the vote received by the candidate in his or her primary. In states that hold runoff elections, we looked only at the first round (the regular primary). In states that hold all-party primaries (e.g., California), a candidate’s primary percentage is the percentage of the total Democratic vote they received. Unopposed candidates and candidates nominated by convention (not primary) are given a primary percentage of 100 but were excluded from our analysis involving vote share. Numbers come from official results posted by the secretary of state or local elections authority; if those were unavailable, we used unofficial election results from the New York Times.
-`Won Primary` | “Yes” if the candidate won his or her primary and has advanced to November; “No” if he or she lost.
 `Partisan Lean` | The FiveThirtyEight partisan lean of the district or state in which the election was held. Partisan leans are calculated by finding the average difference between how a state or district voted in the past two presidential elections and how the country voted overall, with 2016 results weighted 75 percent and 2012 results weighted 25 percent.
 `Race` | “White” if we identified the candidate as non-Hispanic white; “Nonwhite” if we identified the candidate as Hispanic and/or any nonwhite race; blank if we could not identify the candidate’s race or ethnicity. To determine race and ethnicity, we checked each candidate’s website to see if he or she identified as a certain race. If not, we spent no more than two minutes searching online news reports for references to the candidate’s race.
 `Veteran?` | If the candidate’s website says that he or she served in the armed forces, we put “Yes.” If the website is silent on the subject (or explicitly says he or she didn’t serve), we put “No.” If the field was left blank, no website was available.
