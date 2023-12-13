@@ -1,5 +1,4 @@
-# 🦄Causal Inference and Supervised Learning Methods on 2018 Democratic Primary Elections  
-
+# 🦄What Makes a Winner? Causal Inference and Supervised Machine Learning on Trump-Era Midterm Elections
 **By Aileen Wu, Nikki Iyer, Carlos Gonzalez, and Sara Tetsu**
 
 _Special thanks to Dominic Liu, without whom, none of this would have been possible._
