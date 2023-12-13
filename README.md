@@ -1,7 +1,7 @@
 # 🦄What Makes a Winner? Causal Inference and Supervised Machine Learning on Trump-Era Midterm Elections
 **By Aileen Wu, Nikki Iyer, Carlos Gonzalez, and Sara Tetsu**
 
-_Special thanks to Dominic Liu, without whom, none of this would have been possible._
+_Special thanks to Dominic Liu, without whom, this project would have been just be a meme page._
 
 
 
