@@ -18,7 +18,7 @@ _Special thanks to Dominic Liu, without whom, this project would have been just 
   2. [the Brookings Institute, an independent nonprofit research institution in Washington D.C.] ([url](https://www.brookings.edu/articles/the-2018-primaries-project-appendix-to-candidates-data/))
   3. the Federal Elections Commission (FEC), an independent government agency. 
 
-The following Column Descriptions are taken directly from FiveThirtyEight and the Brookings Institute, With the exception of ```total_runners``` and ```receipts```, which we wrote ourselves.  
+**The following Column Descriptions are taken directly from FiveThirtyEight and the Brookings Institute, With the exception of ```total_runners``` and ```receipts```, which we wrote ourselves.  **
 
 Column | Description 
 -------|--------------
