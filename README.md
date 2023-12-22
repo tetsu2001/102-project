@@ -50,8 +50,7 @@ Column | Description
 `VoteVets Endorsed?` | “Yes” if the candidate was endorsed by VoteVets before the primary, according to the VoteVets website, candidate website or news reports. “No” if the candidate is running against a VoteVets-endorsed candidate or if VoteVets specifically anti-endorsed or spent money to attack the candidate. If VoteVets simply did not weigh in on the race, we left the cell blank.
 `No Labels Support?` | “Yes” if a No Labels-affiliated group (Citizens for a Strong America Inc., Forward Not Back, Govern or Go Home, United for Progress Inc. or United Together) spent money in support of the candidate in the primary. “No” if the candidate is running against an candidate supported by a No Labels-affiliated group or if a No Labels-affiliated group specifically anti-endorsed or spent money to attack the candidate. If No Labels simply did not weigh in on the race, we left the cell blank.
 | Female                                            | "1" If candidate identifies as Female, "0" otherwise.                                                                      |
-| SinglePayer                                       | "1" if Candidate supports universal health care, "0" otherwise.                                                                 
-|                                                   |
+| SinglePayer                                       | "1" if Candidate supports universal health care, "0" otherwise.             |
 | No Labels Support?                                | [nan, 'No', 'Yes']                                                         |
 | Listed.military.service.                          | [0, 1]                                                                     |
 | Education                                         | ['Other', "Master's Degree (includes MBA)", "Bachelor's or some college", 'J.D.', 'Other Graduate', "Associate's or less"] |
