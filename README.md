@@ -6,8 +6,6 @@ _Special thanks to Dominic Liu, without whom, this project would have been just 
 
 
 
-
-
 <img src="https://github.com/tetsu2001/102-project/assets/98058378/6e7ed604-b019-4ea7-a8ba-373404783c3c" height="600">
 
 
