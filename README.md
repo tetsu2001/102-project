@@ -18,10 +18,12 @@ _Special thanks to Dominic Liu, without whom, this project would have been just 
   2. the Brookings Institute, an independent nonprofit research institution in Washington D.C.
   3. the Federal Elections Commission (FEC), an independent government agency. 
 
-## Column Descriptions
+The following Column Descriptions are taken directly from FiveThirtyEight and the Brookings Institute, With the exception of ```total_runners``` and ```receipts```, which we wrote ourselves.  
 
 Column | Description 
 -------|--------------
+`total runners` | Number of candidates running in the same race, including the candidate themself.
+`receipts` | the total amount of funding a candidate received during their campaign, reported by the FEC. 
 `Candidate` | Name of candidate. Supplied by Ballotpedia.
 `State` | The state in which the candidate ran. Supplied by Ballotpedia.
 `District` | The office and, if applicable, congressional district number for which the candidate ran. Supplied by Ballotpedia.
@@ -74,22 +76,3 @@ Column | Description
 | **Handling terrorism**               | The first code includes candidates who support status quo efforts to combat terrorism abroad. The second code includes candidates who call for increased American intervention to combat terrorism abroad. |
 | **Russia**                           | The first code includes candidates who argue Russia is a political enemy of the United States. The second code incorporates candidates who argue Russia is a political ally. |
 |
-| Position.on.Affordable.Care.Act..ObamaCare.       | ['Candidate provides no information', 'Candidate provides complicated/complex/unclear position', 'Candidate explicitly supports ACA'] |
-| Position.on.Minimum.Wage                          | ['Candidate provides no information', 'Candidate supports raising the minimum wage', 'Candidate provides complicated/complex/unclear position'] |
-| Position.on.Federal.Taxes                         | ['Candidate provides no information', 'Candidate supports raising taxes on the wealthy/corporations', 'Candidate provides complicated/complex/unclear position', 'Candidate opposes raises taxes (or candidate supports lowering taxes for all)'] |
-| Position.on.Business.Regulations                  | ['Candidate provides no information', 'Candidate opposes business regulations and other "red tape"', 'Candidate provides complicated/complex/unclear position', 'Candidate supports placing smart regulations on business'] |
-| Position.on.National.Debt.Deficit                 | ['Candidate provides no information', 'Candidate calls for lowering the national debt or calls for deficit reduction', 'Candidate supports increasing the national debt or the federal deficit', 'Candidate provides complicated/complex/unclear position'] |
-| Position.on.Social.Security                       | ['Candidate provides no information', 'Candidate supports protecting the status quo Social Security system', 'Candidate proposes reforms to reshape Social Security (e.g. increasing the retirement age; means-testing; etc.)', 'Candidate provides complicated/complex/unclear position'] |
-| Position.on.Gun.Control                           | ['Candidate provides no information', 'Candidate supports gun control measures', 'Candidate provides complicated/complex/unclear position', 'Candidate opposes gun control of all kinds (including background checks)'] |
-| Position.on.Immigration                           | ['Candidate provides no information', 'Candidate supports comprehensive immigration reform (including a path to citizenship for illegal immigrants)', 'Candidate provides complicated/complex/unclear position'] |
-| Position.on.Abortion                              | ['Candidate identifies with the pro-choice position (i.e. supports abortion rights)', 'Candidate provides complicated/complex/unclear position', 'Candidate provides no information', 'Candidate identifies with the pro-life position (i.e. anti-abortion)'] |
-| Position.on.Same.Sex.Marriage                     | [0, 1]                                                                     |
-| Position.on.Criminal.Justice.Reform               | ['Candidate supports major criminal justice reform', 'Candidate provides no information', 'Candidate provides complicated/complex/unclear position'] |
-| Position.on.Federal.K.12.Education.Policy         | ['Candidate supports federal proposals for major education reform (including common core)', 'Candidate provides no information', 'Candidate provides complicated/complex/unclear position', 'Candidate supports local solutions to reform education (e.g. opposes common core, etc.)'] |
-| Position.on.Climate.Change                        | ['Candidate supports regulations and measures to combat climate change', 'Candidate provides no information', 'Candidate provides complicated/complex/unclear position', 'Candidate opposes climate change regulations OR denies the effects of climate change'] |
-| Position.on.Campaign.Finance.Reform               | ['Candidate provides no information', 'Candidate supports reforming campaign finance ("overturning Citizens United," "no more SuperPACs," etc.)', 'Candidate provides complicated/complex/unclear position'] |
-| Position.on.Legalization.Decriminalization.of.Marijuana.Policy | ['Candidate supports legalization/decriminalization of marijuana', 'Candidate provides no information', 'Candidate provides complicated/complex/unclear position', 'Candidate opposes legalization/decriminalization of marijuana'] |
-| Position.on.Defense.Spending                      | ['Candidate provides no information', 'Candidate opposes reductions in military spending', 'Candidate supports a reduction in military spending', 'Candidate provides complicated/complex/unclear position'] |
-| Position.on.Handling.Terrorism.Abroad             | ['Candidate provides no information', 'Candidate provides complicated/complex/unclear position', 'Candidate supports status quo efforts to combat terrorism', 'Candidate supports calls for increased American intervention to combat terrorism'] |
-| Position.on.Russia                                | ['Candidate provides no information', 'Candidate provides complicated/complex/unclear position', 'Candidate notes Russia as political enemy of the United States', 'Candidate identifies Russia as political ally of the United States'] |
-| Party.Category                                    | ['Establishment Democrat', 'Progressive Democrat', 'Other', 'Moderate Democrat'] |
