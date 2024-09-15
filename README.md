@@ -6,7 +6,7 @@
 
 - The dataset contains information on candidates who ran in the Democratic Primary Elections for the House of Representatives in 2018. The 632 candidates in our dataset are those who ran in races where the incumbent was not seeking re-election, and were also running unopposed in the primary election (had at least one opponent).
 - Data in this dataset were gathered from three sources:
-  1. FiveThirtyEight, an American media company now owned by the American Broadcasting Coompany (ABC). 
+  1. [dem_candidates.csv from FiveThirtyEight],(https://github.com/tetsu2001/data/blob/15f210532b2a642e85738ddefa7a2945d47e2585/primary-candidates-2018/dem_candidates.csv) an American media company now owned by the American Broadcasting Coompany (ABC). 
   2. [the Brookings Institute, an independent nonprofit research institution in Washington D.C.](https://www.brookings.edu/articles/the-2018-primaries-project-appendix-to-candidates-data/)
   3. the Federal Elections Commission (FEC), an independent government agency. 
 
